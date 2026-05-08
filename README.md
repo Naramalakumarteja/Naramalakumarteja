@@ -1,5 +1,12 @@
+
 <div align="center">
-  <h1>Hi there, I'm Kumar Teja! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px" alt="Waving Hand"/></h1>
+  <h1>
+    Hi there, I'm Kumar Teja!
+    <img 
+      src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif"
+      width="35px"
+    />
+  </h1>
   
   <!-- Animated Typing Banner -->
   <a href="https://github.com/Naramalakumarteja">
@@ -76,7 +83,7 @@ I’m a third-year **Artificial Intelligence and Data Science** student at Savee
 
 <div align="center">
   <!-- NOTE: Update the YOUR-LINKEDIN-USERNAME below to your actual LinkedIn Handle -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Naramalakumarteja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Tejakumar751@gmail.com" target="_blank">
