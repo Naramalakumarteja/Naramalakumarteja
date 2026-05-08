@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Kumar%20Teja&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=f8fafc&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist%20%26%20Full%20Stack%20Developer&descAlign=50&descAlignY=60)
+<h1>🌙 Kumar Teja</h1>
+<p><strong>AI & Data Science Student | Aspiring Data Scientist & Full Stack Developer</strong></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+space!;AI+%26+Data+Science+Student;Aspiring+Data+Scientist+%26+Full+Stack+Developer;GPU+Computing+%7C+Cloud+%7C+System+Design)](https://git.io/typing-svg)
 
@@ -75,11 +76,11 @@ Hi, I'm **Kumar Teja**, a third-year **Artificial Intelligence and Data Science*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naramalakumarteja&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Naramalakumarteja&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Naramalakumarteja&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naramalakumarteja&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Naramalakumarteja&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
