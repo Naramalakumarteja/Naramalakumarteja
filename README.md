@@ -65,16 +65,35 @@ I’m a third-year **Artificial Intelligence and Data Science** student at Savee
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naramalakumarteja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kumar Teja's GitHub Stats" />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naramalakumarteja&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Kumar Teja's GitHub Stats"
+  />
+
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naramalakumarteja&theme=tokyonight&hide_border=true&background=0D1117" alt="Kumar Teja's GitHub Streak" />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=Naramalakumarteja&theme=tokyonight&hide_border=true"
+    alt="Kumar Teja's GitHub Streak"
+  />
+
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naramalakumarteja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naramalakumarteja&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+
 </div>
 
 ---
@@ -93,3 +112,4 @@ I’m a third-year **Artificial Intelligence and Data Science** student at Savee
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
+
