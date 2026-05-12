@@ -1,14 +1,16 @@
 <div align="center">
 
-#  Hey, I'm Kumar Teja 
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+Data+Scientist+at+NVIDIA;Full+Stack+Developer;GPU+Computing+Enthusiast;CUDA+%7C+PyTorch+%7C+Cloud+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+I'm+Kumar+Teja;AI+%26+Data+Science+Student;Future+NVIDIA+Data+Scientist;Full+Stack+Developer;CUDA+%7C+PyTorch+%7C+Cloud+Tech" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Tirupati,%20India-00C2FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/College-Saveetha%20Engineering%20College-7B61FF?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Naramalakumarteja&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9e59d-8d8e-4fcb-9b4f-1f6c2e9d1f4f.gif" width="100%"/>
 
 </div>
 
@@ -22,7 +24,7 @@
 🚀 Passionate about **Data Science, Full Stack Development & System Design**  
 🧠 Exploring **Deep Learning, PyTorch, CUDA & GPU Computing**  
 ☁️ Interested in **Cloud Technologies & Scalable Systems**  
-📊 Love building **analytics dashboards & AI-powered applications**  
+📊 Love building **Analytics Dashboards & AI-powered Applications**  
 🎯 Goal: Become a **Data Scientist at NVIDIA**
 
 <br/>
@@ -48,6 +50,8 @@
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
+<br/><br/>
+
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -66,6 +70,18 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
 
 </div>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Deep Learning      ██████████░░░ 80%
+PyTorch            ████████░░░░ 70%
+CUDA Programming   ██████░░░░░░ 60%
+System Design      ███████░░░░░ 65%
+Cloud Computing    ██████░░░░░░ 55%
+```
 
 ---
 
@@ -129,9 +145,10 @@
 
 <div align="center">
 
-<img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&theme=dark&bg_color=0d1117&author_color=58a6ff&quote_color=ffffff&border_color=30363d"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 🤝 Connect With Me
