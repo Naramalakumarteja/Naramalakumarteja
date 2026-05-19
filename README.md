@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+I'm+Kumar+Teja;AI+%26+Data+Science+Student;Future+NVIDIA+Data+Scientist;Full+Stack+Developer;CUDA+%7C+PyTorch+%7C+Cloud+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+I'm+Kumar+Teja;AI+%26+Data+Science+Student;Full+Stack+Developer;CUDA+%7C+PyTorch+%7C+Cloud+Tech" />
 
 <br/>
 
